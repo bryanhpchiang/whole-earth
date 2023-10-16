@@ -15,7 +15,7 @@ data = [
     dict(name="we-winter1997", url="https://ia801405.us.archive.org/BookReader/BookReaderImages.php?id=wholeearthwinter00unse&itemPath=%2F25%2Fitems%2Fwholeearthwinter00unse&server=ia801405.us.archive.org&page=n{}_medium.jpg"),
     dict(name="we-winter2000", url="https://ia601404.us.archive.org/BookReader/BookReaderImages.php?id=wholeearthwinter00unse_1&itemPath=%2F29%2Fitems%2Fwholeearthwinter00unse_1&server=ia601404.us.archive.org&page=n{}_medium.jpg"),
     dict(name="cybernetic-frontiers", url="https://ia801501.us.archive.org/BookReader/BookReaderImages.php?id=iicyberneticfron00unse&itemPath=%2F31%2Fitems%2Fiicyberneticfron00unse&server=ia801501.us.archive.org&page=n{}_medium.jpg"),
-    dict()
+    dict(name="wer-summer1986", url="https://ia601405.us.archive.org/BookReader/BookReaderImages.php?id=wholeearthreview00unse_6&itemPath=%2F34%2Fitems%2Fwholeearthreview00unse_6&server=ia601405.us.archive.org&page=n{}_medium.jpg")
 ]
 
 
